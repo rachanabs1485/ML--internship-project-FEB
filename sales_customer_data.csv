@@ -1,0 +1,201 @@
+CustomerID,Name,Age,Gender,City,AnnualIncome,PurchaseAmount,ProductCategory,NumPurchases,Rating,Returned
+CUST001,Suresh,58,Female,Bangalore,46736.0,5917.62,Clothing,5,2.7,0
+CUST002,Meera,48,Male,Mumbai,,1100.11,Groceries,3,1.8,0
+CUST003,Deepa,34,Female,Bangalore,20854.0,2616.95,Home & Kitchen,27,4.4,0
+CUST004,Kavya,62,Male,Kolkata,110084.0,7507.65,Sports,1,,0
+CUST005,Kavya,27,Male,Bangalore,58623.0,6030.05,Sports,26,4.8,0
+CUST006,Rohan,40,Male,Kolkata,27392.0,1232.04,Home & Kitchen,28,,1
+CUST007,Kavya,58,Male,Chennai,75680.0,2245.41,Electronics,6,4.4,0
+CUST008,Pooja,38,Male,Pune,66717.0,9469.22,Electronics,15,3.5,0
+CUST009,Sanjay,42,Female,Ahmedabad,107092.0,13880.31,Groceries,2,,1
+CUST010,Ananya,30,Male,Ahmedabad,70859.0,8723.6,Books,29,4.1,0
+CUST011,Aarav,30,Male,Delhi,46309.0,1409.31,Clothing,3,3.0,0
+CUST012,Amit,43,Female,Ahmedabad,107455.0,1379.56,Electronics,17,3.2,0
+CUST013,Aarav,55,Male,Kolkata,83734.0,3993.33,Sports,25,3.1,0
+CUST014,Ravi,59,Female,Hyderabad,90467.0,7038.1,Groceries,24,3.4,0
+CUST015,Aarav,43,Female,Bangalore,72662.0,3887.85,Clothing,12,1.1,0
+CUST016,Amit,22,Female,Kolkata,118506.0,14090.04,Groceries,18,2.6,0
+CUST017,Priya,41,Male,Hyderabad,32688.0,2433.42,Clothing,15,3.4,0
+CUST018,Pooja,21,Male,Pune,45342.0,5834.42,Clothing,12,3.4,0
+CUST019,Kavya,43,Male,Ahmedabad,57157.0,3907.45,Home & Kitchen,16,4.2,0
+CUST020,Kavya,63,Female,Pune,87863.0,11034.43,Electronics,27,,0
+CUST021,Sanjay,49,Male,Ahmedabad,72083.0,3524.78,Groceries,8,5.0,1
+CUST022,Rohan,57,Female,Bangalore,85733.0,4929.5,Groceries,28,2.1,0
+CUST023,Sanjay,21,Male,Mumbai,109045.0,11840.44,Home & Kitchen,14,2.4,0
+CUST024,Ananya,40,Female,Bangalore,54698.0,2125.03,Sports,25,2.5,0
+CUST025,Ananya,52,Male,Chennai,100623.0,2721.37,Sports,17,2.9,0
+CUST026,Rahul,31,Male,Kolkata,42671.0,5633.76,Electronics,29,4.3,0
+CUST027,Rohan,41,Male,Delhi,45184.0,4918.2,Electronics,21,1.9,1
+CUST028,Sanjay,63,Female,Mumbai,113384.0,2549.29,Books,8,4.1,0
+CUST029,Kavya,44,Female,Bangalore,62107.0,3780.92,Home & Kitchen,15,2.6,1
+CUST030,Meera,46,Male,Hyderabad,106202.0,8225.82,Sports,27,3.4,0
+CUST031,Sunita,61,Male,Mumbai,71663.0,8310.81,Clothing,14,3.5,0
+CUST032,Amit,47,Female,Kolkata,35708.0,2227.42,Groceries,18,2.5,0
+CUST033,Amit,35,Female,Ahmedabad,111906.0,4116.33,Electronics,20,3.1,0
+CUST034,Aarav,34,Female,Mumbai,69811.0,1246.34,Groceries,7,2.7,0
+CUST035,Sunita,63,Male,Ahmedabad,22811.0,2415.38,Groceries,3,1.3,1
+CUST036,Rohan,22,Female,Kolkata,76250.0,8224.85,Books,29,2.7,0
+CUST037,Sneha,56,Male,Bangalore,92082.0,1754.24,Sports,12,1.4,0
+CUST038,Ananya,26,Female,Kolkata,54754.0,7966.94,Electronics,21,2.6,0
+CUST039,Aarav,40,Male,Mumbai,115742.0,8787.32,Groceries,24,3.4,0
+CUST040,Vikram,28,Female,Hyderabad,31411.0,1775.01,Electronics,28,3.3,0
+CUST041,Aarav,58,Female,Pune,22911.0,100.0,Clothing,26,3.7,0
+CUST042,Sneha,37,Female,Mumbai,87270.0,2788.3,Books,3,1.4,0
+CUST043,Priya,23,Female,Kolkata,103763.0,14286.33,Clothing,20,3.6,0
+CUST044,Meera,44,Female,Pune,28680.0,2460.04,Electronics,14,2.2,0
+CUST045,Vikram,33,Male,Kolkata,104896.0,8200.82,Electronics,15,2.6,0
+CUST046,Meera,28,Female,Hyderabad,103879.0,10259.69,Sports,25,4.4,0
+CUST047,Aarav,45,Female,Kolkata,91295.0,6649.39,Groceries,14,1.0,0
+CUST048,Ananya,21,Female,Bangalore,108614.0,12434.29,Groceries,7,3.4,0
+CUST049,Suresh,39,Male,Delhi,31111.0,518.12,Clothing,17,3.4,0
+CUST050,Amit,47,Female,Ahmedabad,57504.0,4918.94,Books,12,2.6,0
+CUST051,Sneha,26,Male,Ahmedabad,21802.0,1339.99,Home & Kitchen,20,1.9,0
+CUST052,Suresh,63,Female,Mumbai,28155.0,709.42,Groceries,4,1.9,0
+CUST053,Sunita,27,Female,Delhi,93656.0,5887.77,Sports,9,4.5,0
+CUST054,Amit,54,Male,Kolkata,59384.0,1072.37,Clothing,6,2.8,0
+CUST055,Kavya,33,Female,Hyderabad,67254.0,1765.94,Clothing,16,2.3,1
+CUST056,Vikram,36,Male,Mumbai,41918.0,2917.76,Home & Kitchen,25,2.8,0
+CUST057,Amit,55,Male,Kolkata,105981.0,14288.75,Sports,28,3.7,0
+CUST058,Sneha,59,Female,Pune,80713.0,2460.79,Books,22,1.6,1
+CUST059,Divya,23,Male,Chennai,50306.0,920.79,Sports,22,2.8,0
+CUST060,Suresh,21,Female,Kolkata,36646.0,4889.26,Books,21,3.4,0
+CUST061,Priya,25,Female,Delhi,66843.0,8321.09,Sports,21,4.8,0
+CUST062,Sanjay,61,Male,Mumbai,116601.0,6843.92,Sports,2,2.0,0
+CUST063,Sanjay,23,Male,Delhi,110735.0,9116.43,Electronics,24,2.4,0
+CUST064,Sneha,48,Male,Mumbai,36371.0,4309.32,Clothing,8,2.5,0
+CUST065,Sneha,37,Male,Kolkata,97371.0,1194.56,Sports,11,3.4,0
+CUST066,Kiran,45,Female,Bangalore,22049.0,3208.58,Home & Kitchen,13,2.4,0
+CUST067,Vikram,63,Female,Pune,51616.0,7103.61,Sports,17,3.1,0
+CUST068,Sunita,53,Male,Kolkata,40932.0,2763.67,Groceries,8,4.1,1
+CUST069,Kiran,29,Female,Ahmedabad,49855.0,1038.41,Clothing,21,3.8,0
+CUST070,Meera,55,Female,Delhi,81434.0,11404.44,Groceries,18,2.8,0
+CUST071,Kavya,33,Female,Chennai,92694.0,7539.05,Clothing,18,4.5,0
+CUST072,Ananya,50,Female,Chennai,63016.0,4446.74,Groceries,14,3.2,0
+CUST073,Ananya,34,Male,Hyderabad,27400.0,3382.0,Sports,15,3.2,0
+CUST074,Kavya,27,Male,Mumbai,62642.0,6350.23,Sports,6,1.1,0
+CUST075,Amit,33,Female,Delhi,35151.0,5602.61,Electronics,11,4.9,0
+CUST076,Pooja,42,Male,Hyderabad,71407.0,10081.71,Home & Kitchen,13,1.5,0
+CUST077,Kiran,59,Male,Delhi,86690.0,11455.77,Groceries,25,1.9,0
+CUST078,Divya,40,Male,Ahmedabad,24499.0,2187.1,Books,1,1.2,0
+CUST079,Suresh,35,Female,Mumbai,26295.0,2637.46,Electronics,28,3.6,0
+CUST080,Kavya,64,Female,Kolkata,79040.0,7982.55,Groceries,6,,0
+CUST081,Deepa,37,Female,Kolkata,32183.0,1995.55,Groceries,9,1.7,1
+CUST082,Aarav,43,Male,Chennai,49299.0,1837.18,Electronics,8,1.4,0
+CUST083,Amit,45,Female,Kolkata,32874.0,2974.75,Sports,11,1.4,0
+CUST084,Kavya,44,Female,Kolkata,52711.0,7599.12,Groceries,22,3.3,0
+CUST085,Kiran,64,Male,Ahmedabad,25539.0,1611.35,Sports,19,3.8,0
+CUST086,Divya,60,Female,Bangalore,73351.0,9908.53,Electronics,24,2.6,1
+CUST087,Divya,48,Female,Chennai,81267.0,7770.83,Sports,9,2.9,0
+CUST088,Sneha,34,Male,Hyderabad,68354.0,2941.93,Clothing,17,3.7,0
+CUST089,Nisha,64,Male,Pune,,714.51,Books,12,1.1,0
+CUST090,Sneha,20,Male,Bangalore,58360.0,3173.75,Groceries,25,2.3,0
+CUST091,Vikram,44,Female,Hyderabad,102018.0,6430.24,Home & Kitchen,14,4.9,0
+CUST092,Vikram,26,Female,Mumbai,,879.94,Books,15,3.3,1
+CUST093,Kavya,28,Female,Bangalore,88497.0,8582.9,Sports,16,,0
+CUST094,Meera,43,Male,Ahmedabad,66975.0,4001.93,Groceries,22,3.1,0
+CUST095,Ravi,20,Male,Hyderabad,41357.0,4518.24,Sports,22,2.4,1
+CUST096,Arjun,63,Female,Mumbai,97505.0,5971.62,Clothing,28,3.1,0
+CUST097,Sanjay,27,Female,Chennai,22869.0,1770.84,Electronics,20,1.5,0
+CUST098,Pooja,43,Male,Pune,81135.0,4029.67,Groceries,1,1.5,0
+CUST099,Kavya,30,Male,Mumbai,70108.0,3285.25,Clothing,10,1.6,1
+CUST100,Arjun,36,Male,Kolkata,114179.0,8826.66,Clothing,8,4.8,0
+CUST101,Kiran,27,Male,Delhi,110272.0,10726.69,Groceries,18,3.9,0
+CUST102,Aarav,54,Female,Mumbai,58467.0,3692.41,Sports,28,1.6,0
+CUST103,Pooja,54,Male,Mumbai,43328.0,5505.67,Home & Kitchen,1,1.8,0
+CUST104,Vikram,52,Female,Pune,111412.0,1145.17,Clothing,2,3.9,0
+CUST105,Pooja,24,Female,Delhi,106831.0,7298.44,Books,1,1.6,0
+CUST106,Sneha,61,Female,Kolkata,23987.0,3039.12,Clothing,1,1.9,0
+CUST107,Aarav,58,Male,Hyderabad,78871.0,6900.64,Home & Kitchen,9,4.9,0
+CUST108,Sanjay,60,Male,Hyderabad,42399.0,3924.38,Sports,13,2.0,1
+CUST109,Kavya,47,Male,Mumbai,66214.0,5742.77,Sports,1,3.6,0
+CUST110,Amit,26,Male,Ahmedabad,119522.0,10302.42,Books,13,4.9,0
+CUST111,Amit,28,Female,Ahmedabad,106416.0,12055.18,Clothing,20,2.5,0
+CUST112,Arjun,27,Male,Delhi,90271.0,2128.83,Sports,26,1.1,0
+CUST113,Arjun,31,Male,Delhi,64064.0,2894.9,Home & Kitchen,22,2.0,0
+CUST114,Meera,53,Female,Kolkata,90091.0,8380.98,Groceries,7,4.3,0
+CUST115,Sunita,52,Male,Pune,60818.0,7973.66,Electronics,2,4.5,0
+CUST116,Arjun,42,Female,Chennai,65525.0,5837.81,Electronics,6,4.1,0
+CUST117,Rahul,43,Female,Hyderabad,39830.0,1824.81,Electronics,7,1.5,0
+CUST118,Sunita,56,Female,Pune,37429.0,4735.27,Clothing,26,4.2,0
+CUST119,Kiran,54,Female,Bangalore,26893.0,2928.24,Books,14,4.7,0
+CUST120,Ananya,63,Female,Hyderabad,99909.0,4395.08,Sports,26,3.4,1
+CUST121,Priya,59,Female,Pune,67333.0,4667.46,Groceries,18,4.8,0
+CUST122,Rohan,41,Female,Hyderabad,23436.0,2223.03,Home & Kitchen,15,4.3,1
+CUST123,Deepa,46,Female,Chennai,94290.0,7318.7,Groceries,2,3.7,1
+CUST124,Priya,54,Male,Bangalore,96213.0,6661.15,Home & Kitchen,10,3.3,0
+CUST125,Ravi,20,Male,Ahmedabad,25895.0,902.34,Clothing,23,2.4,0
+CUST126,Kiran,54,Male,Ahmedabad,39738.0,840.25,Electronics,12,1.6,0
+CUST127,Divya,56,Male,Chennai,50746.0,501.9,Clothing,17,3.4,0
+CUST128,Sanjay,33,Female,Kolkata,69377.0,10291.96,Books,8,2.3,0
+CUST129,Rohan,22,Male,Bangalore,68404.0,9391.56,Books,11,4.5,0
+CUST130,Sunita,20,Female,Mumbai,,4531.17,Home & Kitchen,29,5.0,0
+CUST131,Ananya,24,Male,Pune,,17007.86,Sports,3,4.0,0
+CUST132,Aarav,45,Male,Bangalore,59790.0,5825.37,Sports,27,1.4,0
+CUST133,Ravi,33,Male,Kolkata,25600.0,1634.08,Home & Kitchen,6,2.2,0
+CUST134,Kiran,58,Female,Kolkata,114660.0,8464.22,Books,9,,0
+CUST135,Deepa,46,Male,Chennai,113179.0,1363.1,Books,6,3.6,0
+CUST136,Ravi,28,Female,Hyderabad,60764.0,1192.25,Books,9,4.1,0
+CUST137,Rohan,34,Female,Bangalore,94543.0,8770.3,Clothing,7,4.7,0
+CUST138,Ravi,34,Male,Pune,65714.0,6837.61,Books,9,2.8,1
+CUST139,Sunita,45,Male,Bangalore,76835.0,3838.05,Groceries,18,4.6,0
+CUST140,Arjun,61,Male,Delhi,93744.0,13633.27,Electronics,12,4.5,0
+CUST141,Ravi,32,Female,Hyderabad,76491.0,10173.84,Books,8,2.3,0
+CUST142,Sunita,51,Male,Pune,38589.0,1694.33,Home & Kitchen,8,4.5,0
+CUST143,Kavya,58,Female,Ahmedabad,63484.0,7904.93,Electronics,18,2.5,1
+CUST144,Ravi,51,Female,Pune,102989.0,15610.78,Clothing,28,2.2,0
+CUST145,Rohan,23,Male,Mumbai,56212.0,8755.51,Home & Kitchen,20,3.6,1
+CUST146,Aarav,49,Male,Chennai,63525.0,987.45,Electronics,15,2.3,0
+CUST147,Suresh,56,Female,Mumbai,67202.0,6898.66,Home & Kitchen,27,,0
+CUST148,Sanjay,42,Female,Pune,52635.0,4846.85,Clothing,7,3.4,0
+CUST149,Sanjay,58,Female,Hyderabad,83208.0,8014.83,Groceries,11,3.3,0
+CUST150,Ravi,64,Male,Bangalore,53828.0,7827.23,Clothing,20,2.5,0
+CUST151,Suresh,34,Female,Ahmedabad,38711.0,3807.37,Clothing,16,3.2,1
+CUST152,Nisha,62,Male,Bangalore,23420.0,2349.02,Home & Kitchen,4,3.4,1
+CUST153,Kavya,48,Female,Hyderabad,116752.0,15931.13,Sports,6,3.2,0
+CUST154,Sanjay,55,Female,Pune,20301.0,2565.44,Books,26,2.8,1
+CUST155,Deepa,32,Male,Kolkata,65236.0,4630.85,Books,22,1.1,1
+CUST156,Aarav,51,Female,Bangalore,86235.0,4003.43,Groceries,26,3.3,0
+CUST157,Pooja,26,Male,Kolkata,74240.0,4860.64,Groceries,3,1.7,0
+CUST158,Sanjay,41,Male,Bangalore,85726.0,11787.19,Books,9,3.6,0
+CUST159,Amit,47,Female,Bangalore,30492.0,1338.68,Sports,28,4.0,0
+CUST160,Deepa,21,Male,Ahmedabad,26102.0,2420.24,Books,10,3.0,0
+CUST161,Priya,61,Male,Chennai,70336.0,3142.96,Sports,14,3.2,0
+CUST162,Ravi,64,Female,Chennai,105314.0,10515.44,Groceries,11,4.8,0
+CUST163,Deepa,25,Male,Delhi,46641.0,6723.47,Electronics,18,4.4,0
+CUST164,Ananya,47,Male,Mumbai,54584.0,7230.46,Home & Kitchen,22,4.7,0
+CUST165,Sanjay,47,Male,Hyderabad,52745.0,1820.36,Groceries,12,4.3,1
+CUST166,Sneha,63,Female,Hyderabad,43093.0,6226.38,Groceries,23,1.4,1
+CUST167,Aarav,63,Male,Hyderabad,86105.0,8104.02,Clothing,12,1.6,0
+CUST168,Kavya,39,Female,Delhi,71885.0,5097.91,Clothing,13,3.1,1
+CUST169,Rohan,49,Female,Chennai,56631.0,6674.76,Clothing,25,2.0,0
+CUST170,Rahul,30,Male,Pune,92991.0,7582.71,Home & Kitchen,13,2.9,0
+CUST171,Meera,47,Male,Kolkata,24014.0,1517.39,Clothing,19,2.6,0
+CUST172,Meera,44,Male,Ahmedabad,31093.0,2942.33,Sports,26,3.2,0
+CUST173,Sanjay,58,Female,Kolkata,38070.0,1607.37,Books,19,4.0,0
+CUST174,Pooja,52,Male,Pune,55777.0,3375.05,Electronics,23,,0
+CUST175,Priya,20,Male,Ahmedabad,76958.0,4585.63,Groceries,14,3.1,0
+CUST176,Aarav,46,Male,Delhi,102074.0,5266.81,Sports,4,4.3,0
+CUST177,Deepa,32,Male,Pune,30729.0,3084.02,Electronics,13,2.7,0
+CUST178,Rohan,60,Male,Hyderabad,119713.0,9802.45,Sports,8,4.6,0
+CUST179,Kavya,22,Female,Mumbai,65017.0,6694.69,Sports,29,1.3,0
+CUST180,Aarav,58,Female,Bangalore,86320.0,10249.43,Groceries,23,,0
+CUST181,Rahul,25,Male,Kolkata,47751.0,5686.69,Books,21,3.6,0
+CUST182,Kavya,27,Male,Chennai,98069.0,11328.92,Clothing,23,2.5,0
+CUST183,Amit,46,Male,Chennai,74748.0,7838.53,Home & Kitchen,19,1.8,0
+CUST184,Vikram,28,Male,Delhi,25801.0,604.01,Books,12,2.9,0
+CUST185,Rahul,56,Female,Ahmedabad,39190.0,3231.97,Home & Kitchen,18,1.8,0
+CUST186,Sanjay,52,Male,Chennai,69689.0,5589.95,Groceries,6,1.7,0
+CUST187,Aarav,61,Female,Hyderabad,70993.0,1253.92,Groceries,18,3.5,0
+CUST188,Amit,63,Female,Kolkata,49592.0,4916.84,Groceries,19,3.1,0
+CUST189,Kavya,43,Male,Pune,30647.0,1924.4,Electronics,22,3.7,0
+CUST190,Priya,34,Female,Hyderabad,28716.0,2890.91,Home & Kitchen,5,4.7,0
+CUST191,Rahul,51,Female,Delhi,108891.0,16088.51,Books,24,3.1,0
+CUST192,Pooja,51,Female,Hyderabad,107545.0,9623.41,Books,9,3.3,0
+CUST193,Pooja,43,Female,Pune,109912.0,6330.47,Sports,27,1.4,0
+CUST194,Kiran,60,Male,Mumbai,90316.0,1800.11,Sports,3,3.9,0
+CUST195,Nisha,31,Male,Delhi,22368.0,3377.28,Sports,28,2.6,1
+CUST196,Sneha,58,Female,Mumbai,97575.0,13769.08,Groceries,10,4.9,0
+CUST197,Sunita,21,Male,Bangalore,26655.0,923.76,Books,19,4.3,0
+CUST198,Vikram,22,Male,Mumbai,90031.0,9325.14,Home & Kitchen,3,3.1,0
+CUST199,Pooja,56,Male,Bangalore,96429.0,2353.84,Groceries,29,1.5,0
+CUST200,Nisha,36,Male,Bangalore,111083.0,3817.48,Electronics,29,4.4,0
